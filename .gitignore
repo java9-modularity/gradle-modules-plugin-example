@@ -1,0 +1,12 @@
+.idea/
+*.iws
+*.iml
+out/
+.idea_modules/
+atlassian-ide-plugin.xml
+.idea/replstate.xml
+.gradle
+/build/
+gradle-app.setting
+!gradle-wrapper.jar
+.gradletasknamecache
